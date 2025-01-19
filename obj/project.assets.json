@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4ac desenvolvimento de api\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4d desenvolvimento de api\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4ac desenvolvimento de api\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4d desenvolvimento de api\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\adoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4ac desenvolvimento de api\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\adoni\\OneDrive\\Área de Trabalho\\Atividade 4d desenvolvimento de api\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
